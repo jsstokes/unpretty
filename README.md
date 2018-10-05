@@ -1,5 +1,5 @@
 # unpretty
-Simple C program to "unpretty" JSON that has been *pretty printed*.
+Simple C program to "unpretty" JSON that has been "*pretty printed*".
 
 Input is read from STDIN and output is written to STDOUT.
 
